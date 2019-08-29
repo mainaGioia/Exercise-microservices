@@ -1,0 +1,27 @@
+{reservationId: ”0100”, guestName: ”John Doe”, hotelName: ”Hotel Inn”, city: ”Prague”}
+{reservationId: ”0001”, guestName: ”John Doe”, hotelName: ”Hotel Inn”, city: ”Innsbruck”}
+{reservationId: "0001",guestName: "Anna Smith",hotelName: "Hotel Inn", city: "Innsbruck"}
+{reservationId: "0001",guestName: "Ciao Smith",hotelName: "Hotel Inn",city: "Innsbruck"}
+{reservationId: "0031", guestName: "Will Smith", hotelName: "Gran Budapest Hotel", city: "Budapest"}
+{reservationId: "0031", guestName: "Will Smith", hotelName: "Gran Innsbruck Hotel", city: "Innsbruck"}
+{reservationId: "004", guestName: "Morgan Freeman", hotelName: "Belle", city: "Vienna"}
+{reservationId: "005", guestName: "Jasmine Freeman", hotelName: "Paradise", city: "Vienna"}
+{reservationId: "0031", guestName: "Will Smith", hotelName: "Gran Innsbruck Hotel", city: "Innsbruck"}
+{reservationId: "0032", guestName: "Adam J", hotelName: "Gran Innsbruck Hotel", city: "Innsbruck"}
+{reservationId: "006", guestName: "Charlize Theron", hotelName: "Paradise", city: "Innsbruck"}
+{reservationId: "008", guestName: "Charlize Theron", hotelName: "Paradise", city: "Budapest"}
+{reservationId: "0031", guestName: "Adam Jones", hotelName: "Gran Innsbruck Hotel", city: "Budapest"}
+{reservationId: "0032", guestName: "Nora Jones", hotelName: "Gran Budapest Hotel", city: "Budapest"}
+{reservationId: "0020", guestName: "Charlize Theron", hotelName: "Paradise", city: "Budapest"}
+{reservationId: "0033", guestName: "Nora Jones", hotelName: "Gran Budapest Hotel", city: "Budapest"}
+{reservationId: "0035", guestName: "Nora Jones", hotelName: "Gran Budapest Hotel", city: "Budapest"}
+{reservationId: "0021", guestName: "Ania Materny", hotelName: "Paradise", city: "Vienna"}
+{reservationId: "0036", guestName: "Nora Jones", hotelName: "Gran Vienna Hotel", city: "Vienna"}
+{reservationId: "0036", guestName: "Nora Jones", hotelName: "Gran Innsbruck Hotel", city: "Innsbruck"}
+{reservationId: "0021", guestName: "Anna Materny", hotelName: "Paradise", city: "Innsbruck"}
+{reservationId: "0038", guestName: "Brad Pitt", hotelName: "Gran Innsbruck Hotel", city: "Innsbruck"}
+{reservationId: "0023", guestName: "Nora Materny", hotelName: "Grand Hotel", city: "Innsbruck"}
+{reservationId: "0023", guestName: "Nora Materny", hotelName: "Grand Hotel", city: "Innsbruck"}
+{reservationId: "0025", guestName: "Jerry Materny", hotelName: "Grand Hotel", city: "Innsbruck"}
+{reservationId: "0028", guestName: "Ben Materny", hotelName: "Grand Hotel", city: "Innsbruck"}
+{reservationId: "0027", guestName: "Jerry Materny", hotelName: "Grand Hotel", city: "Innsbruck"}
