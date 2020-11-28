@@ -1,4 +1,4 @@
-# Exercise-microservices
+# Exercise on microservices
 
 Assignment for an interview consisting in creating 2 services: 
 - ImporterService: an HTTP service that can receive these reservations string and stores them into a file.
